@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mayank Verma</h1>
 <h3 align="center">A passionate Data Analyst.</h3>
 
-- 🔭 I’m currently working on **Hotel Booking Dashboard.**
+- 🔭 I’m currently working on **PyMongo.**
 
 - 🌱 I’m currently learning **MYSQL & Power BI.**
 
-- 👯 I’m looking to collaborate on **Data analystics projects.**
+- 👯 I’m looking to collaborate on **Data analytics projects.**
 
 - 👨‍💻 All of my projects are available at [https://mverma44.herokuapp.com/](https://mverma44.herokuapp.com/)
 
